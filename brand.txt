@@ -1,0 +1,4 @@
+Group,Output
+Pithy Slogans,"• ""Rooted in Earth. Wrapped in Luxury.""• ""Pure Ingredients. Pure Magic.""• ""The Golden Standard of Guilt-Free."""
+'Our Story' (Login Blurb),"Born from the warmth of terracotta traditions, MishTee-Magic crafts artisanal indulgences using only pure A2 milk and organic ingredients. We blend heritage recipes with modern wellness to ensure every bite is a golden moment of guilt-free nostalgia."
+Collection Categories,"• The A2 Atelier: Milk-based classics using pure A2 milk.• Terracotta Lite: The signature low-sugar, diabetic-friendly range.• The Gilded Harvest: Premium dry fruit and nut artisanal clusters.• Saffron & Soul: Exotic, saffron-infused festival specials."
